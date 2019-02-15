@@ -1,5 +1,5 @@
-# SaveTheStar
-SaveTheStar is a hypercasual game, where you need to save your planet from a meteor shower.
+# AngryMeteor
+AngryMeteor is a hypercasual game, where you need to save your planet from a meteor shower.
 ### Link to be provided soon
 
 
