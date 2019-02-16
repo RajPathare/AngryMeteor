@@ -4,7 +4,7 @@ AngryMeteor is a hypercasual game, where you need to save your planet from a met
 
 
 ## Game Demo
-<a href= "https://media.giphy.com/media/2hJIMTQrbkFM9FVJiu/giphy.gif"><img src = "https://media.giphy.com/media/2hJIMTQrbkFM9FVJiu/giphy.gif"></a>
+<a href="https://imgflip.com/gif/2tu2rz"><img src="https://i.imgflip.com/2tu2rz.gif" title="made at imgflip.com" width = "200px"></a>
 
 
 
