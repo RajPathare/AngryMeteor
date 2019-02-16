@@ -5,7 +5,7 @@ AngryMeteor is a hypercasual game, where you need to save your planet from a met
 
 ## Game Demo
 // -- Here -- //
-<a href = "https://gifyu.com/image/wXfd"></a>
+<a href = "https://gifyu.com/image/wXfd" src="https://s2.gifyu.com/images/ezgif.com-video-to-gif21f17d64d6a2340e.md.gif" width = "200px"></a>
 
 ## Developer
 - Raj Pathare
